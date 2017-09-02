@@ -1,0 +1,7 @@
+<AddinProject appVersion="7.0">
+  <Project platforms="Linux Mac Win32">
+    <AddinFile>DotNetCoreSupportAnyTargetFramework/bin/Debug/DotNetCoreSupportAnyTargetFramework.dll</AddinFile>
+    <BuildFile>DotNetCoreSupportAnyTargetFramework.sln</BuildFile>
+    <BuildConfiguration>Debug</BuildConfiguration>
+  </Project>
+</AddinProject>
